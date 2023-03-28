@@ -1,4 +1,4 @@
-# My Encrypted Journal
+# My To Do List App
 
 A Todo List web application that enables users to add and remove tasks.
 
